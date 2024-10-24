@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9c7c655-c122-4289-bd61-744118f16700" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tamagotchi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tamagotchi.java" afterDir="false" />
-    </list>
+    <list default="true" id="d9c7c655-c122-4289-bd61-744118f16700" name="Changes" comment="Forgor commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,10 +82,23 @@
       <workItem from="1729162786083" duration="2204000" />
       <workItem from="1729492727067" duration="528000" />
       <workItem from="1729493393213" duration="5000" />
+      <workItem from="1729585141147" duration="41000" />
     </task>
+    <task id="LOCAL−00001" summary="Forgor commit">
+      <option name="closed" value="true" />
+      <created>1729585172516</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1729585172516</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Forgor commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forgor commit" />
   </component>
 </project>
